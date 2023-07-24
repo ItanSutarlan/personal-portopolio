@@ -25,7 +25,7 @@ export const navigation = {
 }
 export const intro = {
 	title: "Hey, I'm Itan",
-	description: "A Fullstack Developer || Backend Developer || Frontend Developer.",
+	description: "A Fullstack Developer | Backend Developer | Frontend Developer.",
 	image: profile.src,
 	buttons: [
 		{
@@ -139,6 +139,10 @@ export const links = {
 	title: "@ItanSutarlan",
 	description: "Backend Developer | Frontend Developer | FullStack Developer",
 	cards: [
+		{
+			title: "My Website",
+			link: "https://personal-portopolio.vercel.app/",
+		},
 		{
 			title: "My GitHub",
 			link: "https://github.com/ItanSutarlan",
